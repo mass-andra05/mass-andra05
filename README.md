@@ -1,37 +1,56 @@
+# Hi there, I'm Mass Andra! 👋
 
-<!--
-**mass-andra05/mass-andra05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there 👋, I'm Mass Andra Production</h1>
-
-<h2 align="center">
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mass-Andra;+Welcome+to+My+Profile!;Love+to+learning+new+things+;Still+Learning+and+Still+Learning+)](https://git.io/typing-svg) 
-    
-</h2>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mass_andra05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mass_andra05" height="30" width="40" /></a>
+ <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=000000&width=435&height=30&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mass+Andra;Love+to+learn+new+things;Still+Learning+and+Growing." alt="Typing SVG" /></a>
 </p>
 
-<p>
-    <a href="https://github.com/mass-andra05/mass-andra05"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=mass-andra05" alt="visitors"/>   
+## About Me
+
+Hi, I'm Mass Andra, a passionate web developer based in Indonesia. I enjoy building responsive and interactive web applications. Currently.
+
+## Skills and Tools
+
+<p align="left">
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" title="Bootstrap" height="50">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50">
+  <img src="https://flowbite.com/images/logo.svg" alt="Flowbite CSS" title="Flowbite CSS" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/120px-CSS3_logo.svg.png" alt="CSS3" title="CSS3" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JavaScript" title="JavaScript" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" title="PHP" width="50" height="50">
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" title="Laravel" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="50" height="50">
+  <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Photoshop" title="Photoshop" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="50" height="50">
 </p>
 
+## Connect with Me
+
+<p align="left">
+  <a href="https://instagram.com/mass_andra05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mass-andra05" alt="visitors">
+</p>
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mass-andra05&show_icons=true&theme=algolia" alt="GitHub Stats">
+</p>
+
+## Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mass-andra05&layout=compact&theme=algolia" alt="Top Languages">
+</p>
