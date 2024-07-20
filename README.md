@@ -34,7 +34,7 @@ Hi, I'm Mass Andra, a passionate web developer based in Indonesia. I enjoy build
   <a href="https://instagram.com/mass_andra05" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:deandratisna@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </p>
