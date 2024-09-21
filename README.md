@@ -20,11 +20,13 @@ Hi, I'm Mass Andra, a passionate web developer based in Indonesia. I enjoy build
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JavaScript" title="JavaScript" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" title="PHP" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="Wordpress" title="Wordpress" width="50" height="50">
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" title="Laravel" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="50" height="50">
   <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Photoshop" title="Photoshop" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" title="Canva" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="50" height="50">
 </p>
 
