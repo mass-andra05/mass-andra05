@@ -26,7 +26,7 @@ Hi, I'm Mass Andra, a passionate web developer based in Indonesia. I enjoy build
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="50" height="50">
   <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Photoshop" title="Photoshop" width="50" height="50">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" title="Canva" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Canva_Logo.svg/250px-Canva_Logo.svg.png" alt="Canva" title="Canva" height="50">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="50" height="50">
 </p>
 
